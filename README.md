@@ -1,8 +1,21 @@
 # a5trovision-to-sound
 A project that is in its prototype state, used to convert what normal data looks like from tables into actual readable and hearable data
-It is a simple program that helps convert numerical data (from tables, CSVs, and such) into readable, hearable, and much more accessible data.
-It uses NASA's data, specifically the global temperature anomalies and means annually to make it more clear on how temperature has changed since 1880. 
-This project is intended to help make data more accessible and much less complicated, to make it easier for users to understand it. Sound, the main thing about this program, helps make data much more easier to understand even when you cannot see it. It can help people who have difficulties in vision, and still let them hear the changes. Other than that, as a side note, this program can be used to warn people about global warming as well, using NASA's latest data to prove a point.
-The tools used in this project are simple, only Python. Along with extra installations via pip. 
-As for the coding process, credits given to ChatGPT for helping in debugging and give syntax vocabulary, as our group consists of beginner-level coders.
-Our project integrates visual data into sound, to help people understand changes in global temperature, and make it more interactive. Our team considered the fact that there are people who visually impaired, and how to make data more readable and accessible to everyone not only via visuals, but via sound. Along with that, we also considered our capabilities when it comes to computing and writing code, which is why we resorted to using AI to help in coding, but limited it to only one AI, and avoiding vibe coding as much as possible.
+
+#FEATURES
+- Visualizes historical global temperature anomalies
+- Uses NASA GISTEMP v4 Land-Ocean Temperature Index data
+- Converts temperature anomalies into changing sound frequencies
+- Synchronizes sound, graph, and NASA temperature visualization (geographical map)
+- Includes playback, pause, reset, and interactive graph control (will be further improved)
+
+#Data Source
+NASA GISS — GISTEMP v4
+https://data.giss.nasa.gov/gistemp/
+Reference baseline: 1951–1980.
+
+#How to run?
+- Make sure you have Python installed (use IDLE to run), along with matplotlib, numpy, pandas, mplcursors, pygame, opencv.
+- Make sure to download ALL FILES and put them in ONE SAME folder :)
+
+#Purpose
+To make Earth science more accessible and engaging by combining visual information with sound.
