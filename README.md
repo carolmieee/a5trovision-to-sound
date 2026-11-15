@@ -18,7 +18,7 @@ Reference baseline: 1951–1980.
 - EXAMPLE --> pip install numpy
 - Make sure to download ALL FILES and put them in ONE SAME folder (and do NOT change any of the file names! Unless you know how to modif the code)
 - for the "nasa_temp_video.mp4", make sure to install it from here https://github.com/carolmieee/a5trovision-to-sound/releases/tag/v1.0.0
-(make sure the video name is "nasa_temp_video.mp4", do NOT change it!) 
+(make sure the video name is "nasa_temp_video.mp4", do NOT change it! Put it in the same folder as the rest of the files)
 
 #Purpose
 To make Earth science more accessible and engaging by combining visual information with sound.
