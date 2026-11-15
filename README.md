@@ -4,7 +4,7 @@ Status: Prototype, currently focused on Global Temperature Anomalies
 
 1. Problem:
 Scientific information is often communicated through charts, graphs, and visualizations. While these formats are useful, relying on visual information alone can create barriers for people who benefit from alternative ways of experiencing data.
-A5TROVision offers another way to interpret changes in our planet, utilizing sound other than visuals.
+A5TROVision offers another way to interpret changes in our planet, utilizing sound other to complement visuals.
 
 2. Solution
 A5TROVision makes Earth Information more accessible and interactive through utilization of sight, sound, and numerical information. Sound helps in complementing visual information, making it more easier to understand, and to know which direction the data is going/showing.
