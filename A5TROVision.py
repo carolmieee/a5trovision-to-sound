@@ -173,7 +173,7 @@ def clearmarkers(event):
 clearax = fig.add_axes([0.60, 0.045, 0.15, 0.07])
 clearbutton = Button(
     clearax,
-    "Clear Markers",
+    "Clear Marker",
     color="#243447",
     hovercolor="#FFD166"
 )
