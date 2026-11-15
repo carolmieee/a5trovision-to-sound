@@ -14,7 +14,7 @@ https://data.giss.nasa.gov/gistemp/
 Reference baseline: 1951–1980.
 
 #How to run?
-- Make sure you have Python installed (use IDLE to run), along with matplotlib, numpy, pandas, mplcursors, pygame, opencv.
+- Make sure you have Python installed (use IDLE to run), along with matplotlib, numpy, pandas, mplcursors, pygame, opencv. (Open CMD, type pip install (ex: matplotlib)
 - Make sure to download ALL FILES and put them in ONE SAME folder :)
 
 #Purpose
